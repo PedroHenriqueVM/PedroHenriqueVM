@@ -22,8 +22,8 @@ Site de busca de filmes.
 🌲 **Agrovant Landing Page**  
 Landing page de drone para silvicultura utilizando HTML e CSS.
 
-⚽ **Menu Interativo de Times**  
-Menu com submenu de competições usando apenas HTML e CSS.
+⚽ **Blog SPFC**  
+Blog sobre a opinião dos torcedores e informações do São Paulo Futebol Clube
 
 ---
 
