@@ -17,7 +17,7 @@
 ## 📌 Projetos em destaque
 
 🎬 **CineSearch**  
-Site que sugere filmes com base no sentimento do usuário.
+Site de busca de filmes.
 
 🌲 **Agrovant Landing Page**  
 Landing page de drone para silvicultura utilizando HTML e CSS.
